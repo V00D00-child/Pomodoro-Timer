@@ -1,7 +1,11 @@
-# Pomodoro-Timer
-Pomodoro-Timer application using JavaFX based on the Pomodoro Technique. Allows users to list all tasks they wish to accomplish
+<img src="pomodoro.ico" width="200" align="right">
 
-### Installing
+# Pomodoro-Timer
+Pomodoro-Timer application using JavaFX based on the Pomodoro Technique. Allows users to list all tasks they wish to accomplish 
+
+
+
+## Installing
 
 * Step 1: Click the Pomodoro.jar from the list of files
 * Step 2: Click the Download button to download the Pomodoro.jar file. The file will be save to your local machine
