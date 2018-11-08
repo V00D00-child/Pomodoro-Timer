@@ -1,8 +1,11 @@
-<img src="pomodoro.ico" width="200" align="right">
+<img src="pomodoro.ico" width="100" align="right">
 
 # Pomodoro-Timer
 Pomodoro-Timer application using JavaFX based on the Pomodoro Technique. Allows users to list all tasks they wish to accomplish 
 
+<img src="Pomodoro-Timer-ScreenShots/Capture-01.PNG" width="450">
+
+<img src="Pomodoro-Timer-ScreenShots/Capture-02.PNG" width="450" align="right" >
 
 
 ## Installing
